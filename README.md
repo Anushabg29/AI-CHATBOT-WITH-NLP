@@ -103,3 +103,7 @@ Useful for demonstrating conversational AI concepts in workshops or training ses
 CONCLUSION
 
 This project provides a clear and practical introduction to AI chatbot development using Python and NLP. By using NLTK’s rule-based chat framework, the chatbot effectively demonstrates how human–computer interaction can be achieved through pattern matching and predefined responses. Although simple, the project lays a strong foundation for more advanced chatbot systems involving machine learning, deep learning, or web-based interfaces. Its simplicity, readability, and extensibility make it ideal for beginners and academic use.
+
+OUTPUT
+
+![Image](https://github.com/user-attachments/assets/f7546ef0-8c7f-4ad4-8c73-bb7cc62e740d)
