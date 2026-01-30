@@ -57,8 +57,6 @@ However, the project can be extended in the future to include graphical user int
 LANGUAGES AND TECHNOLOGIES USED
 
 Programming Language
-
-Python
 Python is used as the main programming language due to its simplicity, flexibility, and strong support for NLP libraries. It allows rapid development and easy experimentation with conversational systems.
 
 Libraries and Tools
